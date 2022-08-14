@@ -1,0 +1,16 @@
+{
+  "description": "Space is the zone above and around our planet where there is no air to breathe or to scatter light",
+  "external_url": "https://unsplash.com/photos/XClNDg9Z9Ag",
+  "image": "https://ipfs.filebase.io/ipfs/QmQxc3RhiGPh3TowPuXbJNLHZevxbc4VqJhaNKSKAFa47Q",
+  "name": "Astronaut In Space",
+  "attributes": [
+    {
+      "trait_type": "Coolness",
+      "value": "A lot"
+    },
+    {
+      "trait_type": "Colors",
+      "value": "Vibrant"
+    }
+  ]
+}
